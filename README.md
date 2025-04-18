@@ -14,7 +14,7 @@ El proyecto utiliza la librería Pandas de Python para la manipulación de datos
 
 ## Uso
 
-1. Abre el notebook `Analisis_de_ventas.ipynb` en Google Colab.
+1. Abre el notebook `AluraStoreLatam.ipynb` en Google Colab.
 2. Ejecuta las celdas del notebook en orden para realizar el análisis.
 3. Explora los resultados y visualizaciones generadas.
 4. Para el análisis geográfico, asegúrate de que el notebook sea de confianza en Google Colab (File -> Trust Notebook).
